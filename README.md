@@ -6,9 +6,9 @@
 
 <p>
 
-Estudante de Desenvolvimento de Softwares<br/>
+Estudante de **Desenvolvimento de Softwares**<br/>
 
-Eu sou desenvolvedor **Python**.
+Atualmente programo em **Python**.
 
 
 </p>
