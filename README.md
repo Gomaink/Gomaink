@@ -8,7 +8,7 @@
 
 Dreaming of Computer Cience<br/>
 
-**Web, Python and C++**.
+**Web, Python and C#/.NET**.
 
 
 </p>
