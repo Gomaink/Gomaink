@@ -34,7 +34,7 @@
 
 ### Studying in this moment:
 ![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00599C)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
