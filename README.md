@@ -33,8 +33,8 @@
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 
 ### Studying in this moment:
-![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=0D1117)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
