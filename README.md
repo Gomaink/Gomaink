@@ -3,10 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gomaink&label=Profile%20views&color=404040&style=flat-square" alt="Gomaink" /> </p>
 
 <br>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gomaink&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
   
 
 ### Main skills:
@@ -32,5 +28,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomaink&layout=compact&hide_border=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=404040" />
 </div>
 
+<a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomaink&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="Gomaink's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomaink&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=415d8d&icon_color=F8D866" /></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
