@@ -24,7 +24,7 @@
 
 ### Github stats
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gomaink&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=404040&text_color=C0C0C0&bg_color=404040" alt="Gomaink github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gomaink&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=404040&text_color=C0C0C0&bg_color=404040" alt="Gomaink github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomaink&layout=compact&hide_border=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=404040" />
 </div>
 
