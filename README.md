@@ -4,13 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gomaink&label=Profile%20views&color=404040&style=flat-square" alt="Gomaink" /> </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gomaink&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=404040&text_color=FFFFFF&bg_color=404040" alt="Gomaink github stats" /> 
-</div>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomaink&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=404040" />
-</div>
-
 <br>
 
 <p align="center">
@@ -35,14 +28,11 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 
-### Studying in this moment:
-![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00599C)&nbsp;
+### Github stats
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gomaink&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=404040&text_color=FFFFFF&bg_color=404040" alt="Gomaink github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomaink&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=404040" />
+</div>
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gomaink}/count.svg" /></p> 
-<br></div>
-  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
