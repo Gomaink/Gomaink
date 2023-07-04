@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gomes;I'm+16+years+old;I'm+from+Brasil,+SP;Be+welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gomaink&label=Profile%20views&color=404040&style=flat-square" alt="Gomaink" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gomaink&label=Profile%20views&color=404040&style=flat-square" alt="Gomaink" /> </p>
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Gomaink&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
   
