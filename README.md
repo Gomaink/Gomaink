@@ -29,6 +29,6 @@
 </div>
 
 <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Gomaink&theme=ayu&column=8&no-frame=true&no-bg=true">
+      <img src="https://github-profile-trophy.vercel.app/?username=Gomaink&theme=dracula&column=8&no-frame=true&no-bg=true">
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
