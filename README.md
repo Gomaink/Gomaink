@@ -1,4 +1,4 @@
-<div align="left">
+<div>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=false&vCenter=false&width=1000&lines=Hello,+my+name+is+Gomes;I'm+16+years+old;I'm+from+Brasil,+SP;Be+welcome!+:%29)](https://git.io/typing-svg)
 <img src="https://komarev.com/ghpvc/?username=Gomaink&label=Profile%20views&color=404040&style=flat-square" alt="Gomaink" />
 </div>
